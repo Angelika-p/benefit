@@ -2,6 +2,6 @@
 ## Технологии в проекте
 - HTML
 - CSS
-- -JS
+- JS
 - Normalize
 - Fancybox
